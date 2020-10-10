@@ -1,0 +1,5 @@
+En la carpeta BIN deberán introducirse los archivos MDPLIB de los casos que se quieran ejecutar. 
+
+Será necesario también instalar NumPy y Pandas para ejecutar la práctica (scikit-learn solo si se quiere hacer un estudio de parámetros). Se incluye un requirements.txt para instalarlo usando 'pip install -r requirements.txt', también se puede instalar con 'pip install module' o desde el gestor de paquetes de preferencia.
+
+Tras esto simplente usar un intérprete de python 3 para ejecutar el archivo mdp_apc.py que se encuentra en FUENTES. Generará un archivo de salida en la carpeta raíz llamado 'results.csv'

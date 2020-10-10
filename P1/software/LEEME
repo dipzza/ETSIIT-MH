@@ -1,0 +1,5 @@
+En la carpeta BIN deberán introducirse los archivos MDPLIB de los casos que se quieran ejecutar. 
+
+Será necesario también instalar el módulo NumPy para ejecutar la práctica. Se incluye un requirements.txt para instalarlo usando 'pip install -r requirements.txt', también se puede instalar con 'pip install numpy' o desde el gestor de paquetes de preferencia.
+
+Tras esto simplente usar un intérprete de python para ejecutar el archivo MDP.py que se encuentra en FUENTES.
